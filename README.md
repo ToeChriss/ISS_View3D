@@ -1,4 +1,4 @@
-# ISS_View3D
+﻿# ISS_View3D
 space app challenge repository
 Space Apps Challenge 2015
 =========================
@@ -30,3 +30,10 @@ What comes next?
 
 We are planning to develop a mobile android app. We are looking forward to enhance interactivity and ease page loading.
 
+
+How to run the app 
+---------------------
+
+Just click on the Iss3D_view.html and have fun!!!
+
+It's just the begining in low resolution.
