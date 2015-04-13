@@ -34,6 +34,6 @@ We are planning to develop a mobile android app. We are looking forward to enhan
 How to run the app 
 ---------------------
 
-Just click on the Iss3D_view.html and have fun!!!
+Just click on the [file] (Iss3D_view.html) and have fun!!!
 
 It's just the begining in low resolution.
